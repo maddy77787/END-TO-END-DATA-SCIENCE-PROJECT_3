@@ -11,6 +11,7 @@
 **BATCH DURATION**: MAY 9th, 2026 TO JUNE 6th, 2026
 
 **END** **TO** **END** **DATA** **SCIENCE** **PROJECT**
+
 This project focuses on developing a predictive analytics model to estimate student academic performance using machine learning techniques. The main objective is to analyze various factors that influence a student's examination score and build a model capable of accurately predicting future performance. Educational institutions can use such predictive systems to identify students who may require additional support and to improve overall academic outcomes through data-driven decision-making.
 
 The project begins with the collection and preparation of a student performance dataset. The dataset contains information related to students’ academic and personal factors, including study habits, attendance, parental involvement, access to learning resources, and other variables that may influence examination results. The target variable in this project is the Exam Score, which represents the final performance measure that the model aims to predict.
