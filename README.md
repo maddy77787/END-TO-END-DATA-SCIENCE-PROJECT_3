@@ -10,6 +10,8 @@
 
 **BATCH DURATION**: MAY 9th, 2026 TO JUNE 6th, 2026
 
+**MENTOR**: NEELA SANTOSH
+
 **END** **TO** **END** **DATA** **SCIENCE** **PROJECT**
 
 This project focuses on developing a predictive analytics model to estimate student academic performance using machine learning techniques. The main objective is to analyze various factors that influence a student's examination score and build a model capable of accurately predicting future performance. Educational institutions can use such predictive systems to identify students who may require additional support and to improve overall academic outcomes through data-driven decision-making.
